@@ -1,0 +1,12 @@
+# Build output (recreated on every build)
+target/
+
+# Local database credentials - never commit
+src/main/resources/db.properties
+
+# NetBeans / OS clutter
+nbproject/private/
+nb-configuration.xml
+*.log
+.DS_Store
+Thumbs.db

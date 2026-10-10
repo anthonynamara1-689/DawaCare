@@ -1,0 +1,4 @@
+
+db.url=jdbc:mysql://localhost:3306/medical_adherence_db?rewriteBatchedStatements=true
+db.user=dawacare
+db.password=CHANGE_ME
