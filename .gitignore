@@ -2,7 +2,7 @@
 target/
 
 # Local database credentials - never commit
-src/main/resources/db.properties
+db.properties
 
 # NetBeans / OS clutter
 nbproject/private/
